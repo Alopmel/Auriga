@@ -2,7 +2,6 @@ import axios from "axios";
 import React, { useState } from 'react';
 import Form from  "../atoms/Form";
 import Div from '../atoms/Div';
-import Label from '../atoms/Label';
 import {useForm} from './useForm';
 import './Form.css';
 import validateInfo from './validateInfo';
